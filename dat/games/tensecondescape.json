@@ -1,0 +1,12 @@
+{
+    "format":"game",
+    "title": "10 Second Escape",
+    "description":{
+        "short":"A fast-paced parkour platformer, beat a level in 10 seconds",
+        "long": "IDK>>>>"
+    },
+    "img":{
+        "card": "/dat/img/TenSecondEscape.png"
+    },
+    "link": "afhifhi.html"
+}
