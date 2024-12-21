@@ -1,0 +1,11 @@
+{
+    "format": "card_news",
+    "title": "New Game In Development",
+    "description":{
+        "short": "A rogue like survival game, currently in early development",
+        "long": "Description Long"
+    },
+    "img":{
+        "card": "/dat/img/islandgame.png"
+    }
+}

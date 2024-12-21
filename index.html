@@ -28,16 +28,16 @@
                   <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">Games</a>
+                  <a class="nav-link active" href="pages/games.html">Games</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">News</a>
+                  <a class="nav-link active" href="pages/news.html">News</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">About</a>
+                  <a class="nav-link active" href="pages/about.html">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link active" href="#">Behind The Scenes</a>
+                  <a class="nav-link active" href="pages/behindTheScenes.html">Behind The Scenes</a>
                 </li>
               </ul>
                 <ul class="navbar-nav justify-content-end flex-grow-3 pe-4">
@@ -76,8 +76,8 @@
           <br>
           <div class="row">
             <div class="col-sm-12 text-center">
-                <a class="btn text-bg-primary btn-md center-block" Style="width: 100px;">News</a>
-                 <a class="btn text-bg-secondary btn-md center-block" Style="width: 100px;">About</a>
+                <a href="pages/news.html" class="btn text-bg-primary btn-md center-block" Style="width: 100px;">News</a>
+                 <a href="pages/about.html" class="btn text-bg-secondary btn-md center-block" Style="width: 100px;">About</a>
              </div>
           </div>
         </div>
@@ -92,17 +92,54 @@
                 <br>
                 <br>
                 <br>
-               <a href="#" class="btn text-bg-primary"><i class="fas fa-link"></i>Find Out More</a>
+               <a href="pages/behindTheScenes.html" class="btn text-bg-primary">Find Out More <span class="bi-arrow-right-square"></span></a>
           </div>
           </div>
         </div>
         </div>
       </div>
         <div class="bg" style="background-image: url('assets/img/bg/TenSecEscp.png'); height: 80vh; background-size: cover;">
-          <div class="d-flex flex-column justify-content-center 
-          align-items-center h-100 text-center text-white">
+          <div class="d-flex flex-column justify-content-end align-items-start h-100 text-start text-white" style="padding-bottom: 3rem;">
+              <div class="container">
+                <div class="row justify-content-end align-items-end">
+                  <a href="pages/news.html" class="nav-link"><h3>News <span class="bi-arrow-right-square"></h3></a>
+                </div>
+                <div class="row">
+                  <div class="col">
+                  <div class="card" style="width: 18rem; height: 23rem;" id="index-news-card-1">
+                    <img src="assets/img/bg/BehindTheScenesPoster.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">New Game!</h5>
+                      <p class="card-text">New Game In Development: Island Survival</p>
+                      <a href="pages/news.html" class="btn text-bg-primary">View All</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col d-none d-sm-none d-md-block">
+                  <div class="card" style="width: 18rem; height: 23rem;" id="index-news-card-2">
+                    <img src="assets/img/bg/BehindTheScenesPoster.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Winter Sale!</h5>
+                      <p class="card-text">all products up to 100% off<br>from Dec 12 to Jan 31</p>
+                      <a href="pages/news.html" class="btn text-bg-primary">View All</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col d-none d-sm-none d-md-none d-lg-block">
+                  <div class="card" style="width: 18rem; height: 23rem;"  id="index-news-card-3">
+                    <img src="assets/img/bg/BehindTheScenesPoster.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Asphalt Drifting Release</h5>
+                      <p class="card-text">Asphalt Drifting has been released exclusivly for Windows</p>
+                      <a href="pages/news.html" class="btn text-bg-primary">View All</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
           </div>
         </div>
+      </div>
     <script src="boot/js/bootstrap.bundle.min.js"></script>
+    <script src="js/MainPageJsonParser.js" type="module"></script>
 </body>
 </html>

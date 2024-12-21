@@ -1,0 +1,11 @@
+{
+    "format": "card_news",
+    "title": "Winter Sale!",
+    "description":{
+        "short": "2024-25 Sale! all product up to 100% off (Dec 12 - Jan 31)",
+        "long": "Description Long"
+    },
+    "img":{
+        "card": "/dat/img/wintersale.png"
+    }
+}
