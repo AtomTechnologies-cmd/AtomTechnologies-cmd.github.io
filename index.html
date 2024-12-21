@@ -7,12 +7,13 @@
     <link rel="shortcut icon" href="assets/img/logo/MainLogo.png"/>
     <link rel="stylesheet" href="boot/css/bootstrap.min.css">
     <link rel="stylesheet" href="boot/css/bootstrap-utilities.css">
+    <link rel="stylesheet" href="css/nav-bar.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 </head>
 <body>
     <nav class="navbar navbar-expand-lg fixed-top text-bg-primary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#"><img src="assets/img/logo/BlackLogoNoCircle.png" alt="" width="50em" height="auto"> Atom Technologies</a>
+          <a class="navbar-brand" href="index.html"><img src="assets/img/logo/BlackLogoNoCircle.png" alt="" width="50em" height="auto"> Atom Technologies</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -27,13 +28,16 @@
                   <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Games</a>
+                  <a class="nav-link active" href="#">Games</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">News</a>
+                  <a class="nav-link active" href="#">News</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">About</a>
+                  <a class="nav-link active" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link active" href="#">Behind The Scenes</a>
                 </li>
               </ul>
                 <ul class="navbar-nav justify-content-end flex-grow-3 pe-4">
@@ -63,11 +67,40 @@
           </div>
         </div>
       </nav>
-      <div class="bg" style="background-image: url('assets/img/bg/1.png'); height: 75vh;">
+      <div class="bg" style="background-image: url('assets/img/bg/Island.png'); height: 75vh; background-size: cover;">
         <div class="d-flex flex-column justify-content-center 
         align-items-center h-100 text-center text-white">
           <h1 class="display-2">Atom Technologies</h1>
           <h2 class="display-6"><b>Solo Game Developer</b></h2>
+          <br>
+          <br>
+          <div class="row">
+            <div class="col-sm-12 text-center">
+                <a class="btn text-bg-primary btn-md center-block" Style="width: 100px;">News</a>
+                 <a class="btn text-bg-secondary btn-md center-block" Style="width: 100px;">About</a>
+             </div>
+          </div>
+        </div>
+        <div class="d-flex flex-column justify-content-top
+        align-items-center h-100 text-center text-white" style="margin-top: -5em;">
+        <div class="card" style="width: 23rem;">
+          <div class="bg" style="background-image: url('assets/img/bg/BehindTheScenesPoster.png'); background-size: cover;">
+          <div class="card-body">
+
+            <h4 class="card-title text-light" style="padding-top: 1rem;">Behind The Scenes</h5>
+                <h5 class="card-subtitle mb-2 text-light">Unity & UE</h6>
+                <br>
+                <br>
+                <br>
+               <a href="#" class="btn text-bg-primary"><i class="fas fa-link"></i>Find Out More</a>
+          </div>
+          </div>
+        </div>
+        </div>
+      </div>
+        <div class="bg" style="background-image: url('assets/img/bg/10SecEscape.png'); height: 80vh; background-size: cover;">
+          <div class="d-flex flex-column justify-content-center 
+          align-items-center h-100 text-center text-white">
           </div>
         </div>
     <script src="boot/js/bootstrap.bundle.min.js"></script>
