@@ -3,7 +3,7 @@ window.onload = async (event) => {
     if (jsonlist.format == "list"){
       jsonlist.files.forEach(async name => {
             let json = await GetJSON("games/" + name + ".json");
-            CreateCard(json);
+            await CreateCard(json);
         });
     }
 };
@@ -19,8 +19,8 @@ function CreateCard(json){
   div.className = "col d-flex justify-content-center"
   div.innerHTML = `
                   <div class="card" style="width: 18rem; margin-top: 20px;">
-                  <img class="card-img-top" src="${json.img.card}" alt="Card image cap">
-                  <div class="card-body">
+                  <img class="card-img-top" src="${json.img.card}" alt="Card image cap"  data-bs-toggle="modal" data-bs-target="#${json.modalID}">
+                  <div class="card-body" data-bs-toggle="modal" data-bs-target="#${json.modalID}">
                     <h5 class="card-title">${json.title}</h5>
                     <p class="card-text">${json.description.short}</p>
                   </div>
