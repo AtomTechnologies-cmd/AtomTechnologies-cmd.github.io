@@ -6,7 +6,13 @@
         "long": "IDK>>>>"
     },
     "img":{
-        "card": "/dat/img/TenSecondEscape.png"
+        "card": "/dat/img/TenSecondEscape.png",
+        "screenshots":[
+            "TenSecondEscape1.png",
+            "TenSecondEscape2.png",
+            "TenSecondEscape3.png",
+            "TenSecondEscape4.png"
+        ]
     },
     "link": "afhifhi.html"
 }

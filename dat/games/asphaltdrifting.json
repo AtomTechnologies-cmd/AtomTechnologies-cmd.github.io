@@ -6,7 +6,13 @@
         "long": "IDK>>>>"
     },
     "img":{
-        "card": "/dat/img/asphaltDrifting1.png"
+        "card": "/dat/img/asphaltDrifting1.png",
+        "screenshots":[
+            "AsphaltDrifting1.png",
+            "AsphaltDrifting2.png",
+            "AsphaltDrifting3.png",
+            "AsphaltDrifting4.png"
+        ]
     },
     "link": "afhifhi.html"
 }
