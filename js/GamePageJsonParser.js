@@ -13,7 +13,7 @@ async function GetJSON(path) {
     const json = await response.json();
     return json;
 }
-function CreateCard(json){
+async function CreateCard(json){
   let holder = document.getElementById("card-holder");
   let div = document.createElement("div")
   div.className = "col d-flex justify-content-center"

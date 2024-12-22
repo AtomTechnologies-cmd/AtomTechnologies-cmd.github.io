@@ -3,9 +3,21 @@
     "title": "Asphalt Drifting Release",
     "description":{
         "short": "Asphalt Drifting has been released exclusivly for Windows",
-        "long": "Description Long"
+        "long": "Asphalt Drifting was released on Windows! an infinite driver with epic tricks and stunts"
     },
+    "date": "Dec 12, 2024",
     "img":{
         "card": "/dat/img/asphaltDrifting1.png"
-    }
+    },
+    "modalID": "hdi6-ksut-p34d-5j5g",
+    "links":[
+        {
+            "href": "https://www.youtube.com/watch?v=34V9xGtFBZY",
+            "text": "Video Trailer"
+        },
+        {
+            "href": "https://apps.microsoft.com/detail/9P8G8B6QHHQZ",
+            "text": "Store Link"
+        }
+    ]
 }

@@ -3,9 +3,17 @@
     "title": "New Game In Development",
     "description":{
         "short": "A rogue like survival game, currently in early development",
-        "long": "Description Long"
+        "long": "New game in development! a seed-based procedurally generated island with random foliage. currently has a modular building system with a variety of objects to choose from."
     },
+    "date": "Dec 12, 2024",
     "img":{
         "card": "/dat/img/islandgame.png"
-    }
+    },
+    "modalID": "hdi6-ksut-pald-5jds",
+    "links":[
+        {
+            "href": "https://www.youtube.com/watch?v=-otxfId0oSE",
+            "text": "Video Trailer"
+        }
+    ]
 }
