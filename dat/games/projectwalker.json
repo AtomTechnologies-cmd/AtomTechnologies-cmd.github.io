@@ -1,0 +1,23 @@
+{
+    "format":"game",
+    "title": "Project Walker",
+    "description":{
+        "short":"Escape this cyber styled maze. Without being seen",
+        "long": "in this Cyber Punk style maze runner you have been captured by Dr. Nightshade who is conducting essential tests for his new project. Attempt to escape the maze while being hunted by the Walkers. Acquire powerful items to help you through your journey"
+    },
+    "platform": "Windows & Xbox",
+    "img":{
+        "card": "/dat/img/screenshots/ProjectWalker3.png",
+        "screenshots":[
+            "ProjectWalker1.png",
+            "ProjectWalker2.png",
+            "ProjectWalker3.png",
+            "ProjectWalker4.png"
+        ]
+    },
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=IX8Zb4sjtw0",
+        "store": "https://apps.microsoft.com/detail/9NBPVLNQDVVV"
+    },
+    "modalID": "a1s-rad-g7-6hj"
+}

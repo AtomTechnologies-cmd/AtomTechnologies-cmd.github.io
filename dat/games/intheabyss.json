@@ -1,0 +1,23 @@
+{
+    "format":"game",
+    "title": "In The Abyss",
+    "description":{
+        "short":"A dark gravity-changing parkour puzzle game with portals & more",
+        "long": "Escape the prison of the light creatures, but don't get caught. Use gravity changing portals to maneuver trough the labyrinth of a prison. In The Abyss is an intense platformer with gravity changing portals suitable for all ages"
+    },
+    "platform": "Windows & Xbox",
+    "img":{
+        "card": "/dat/img/screenshots/InTheAbyss4.png",
+        "screenshots":[
+            "InTheAbyss1.png",
+            "InTheAbyss2.png",
+            "InTheAbyss3.png",
+            "InTheAbyss4.png"
+        ]
+    },
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=2LtIJA_PcVY",
+        "store": "https://apps.microsoft.com/detail/9NCLSLG29MV4"
+    },
+    "modalID": "lmf-wad-kbt-ukd"
+}

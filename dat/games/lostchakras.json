@@ -1,0 +1,23 @@
+{
+    "format":"game",
+    "title": "Lost Chakras",
+    "description":{
+        "short":"A calming physics based puzzle game to play and relax on a Sunday",
+        "long": "Lost chakras is a physics based puzzle game made for all ages. the relaxing and interesting game play accompanied by calming music is excellent after a hard days work."
+    },
+    "platform": "Windows & Xbox",
+    "img":{
+        "card": "/dat/img/screenshots/LostChakras3.png",
+        "screenshots":[
+            "LostChakras1.png",
+            "LostChakras2.png",
+            "LostChakras3.png",
+            "LostChakras4.png"
+        ]
+    },
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=AwwmLnXESRg",
+        "store": "https://apps.microsoft.com/detail/9NJNR2QBN744"
+    },
+    "modalID": "a1s-wad-5fd-ukd"
+}

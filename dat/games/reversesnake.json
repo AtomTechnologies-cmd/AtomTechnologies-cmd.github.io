@@ -1,0 +1,23 @@
+{
+    "format":"game",
+    "title": "Reverse Snake",
+    "description":{
+        "short":"Classic snake... with a twist, you are the food, and you're being hunted",
+        "long": "simple classic game of snake, but with a twist. you control the food and try not to get eaten. survive for 4 minutes on ship AX6T, and win, or die trying"
+    },
+    "platform": "Windows & Xbox",
+    "img":{
+        "card": "/dat/img/screenshots/ReverseSnake3.png",
+        "screenshots":[
+            "ReverseSnake1.png",
+            "ReverseSnake2.png",
+            "ReverseSnake3.png",
+            "ReverseSnake4.png"
+        ]
+    },
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=gZXjtjYz4aU",
+        "store": "https://apps.microsoft.com/detail/9PCRLFLGWXVS"
+    },
+    "modalID": "ffj-lob-kbt-pad"
+}

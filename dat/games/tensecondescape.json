@@ -3,8 +3,9 @@
     "title": "10 Second Escape",
     "description":{
         "short":"A fast-paced parkour platformer, beat a level in 10 seconds",
-        "long": "IDK>>>>"
+        "long": "10 Second Escape is a cyber styled skill based platformer with wall jumping, moving platforms, rope swinging and more. Beat the clock to progress, because you only have 10 seconds to get to a checkpoint. Earn daily rewards and unlock exclusive items to help your journey."
     },
+    "platform": "Windows & Xbox",
     "img":{
         "card": "/dat/img/TenSecondEscape.png",
         "screenshots":[
@@ -14,5 +15,9 @@
             "TenSecondEscape4.png"
         ]
     },
-    "link": "afhifhi.html"
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=f38x0_mFzWQ",
+        "store": "https://apps.microsoft.com/detail/9P807NC9Q6J0"
+    },
+    "modalID": "fkj-3tr-kb5-qas"
 }

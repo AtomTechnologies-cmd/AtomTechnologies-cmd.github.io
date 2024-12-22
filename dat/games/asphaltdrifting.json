@@ -3,8 +3,9 @@
     "title": "Asphalt Drifting",
     "description":{
         "short":"An infinite driver with epic ticks, stuns and combos",
-        "long": "IDK>>>>"
+        "long": "Drift on infinite roads with any car in any color you can imagine. Do tricks to score extra points and get a high score! Complete time trials to prove your worth and unlock the elite race car. Have infinite fun on the roads ahead"
     },
+    "platform": "Windows",
     "img":{
         "card": "/dat/img/asphaltDrifting1.png",
         "screenshots":[
@@ -14,5 +15,9 @@
             "AsphaltDrifting4.png"
         ]
     },
-    "link": "afhifhi.html"
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=34V9xGtFBZY",
+        "store": "https://apps.microsoft.com/detail/9P8G8B6QHHQZ"
+    },
+    "modalID": "9kj-str-KRl-r6p"
 }

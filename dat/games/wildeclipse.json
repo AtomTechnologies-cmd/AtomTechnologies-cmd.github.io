@@ -1,0 +1,23 @@
+{
+    "format":"game",
+    "title": "Wild Eclipse",
+    "description":{
+        "short":"Pieto the fox dreams about seeing an eclipse.",
+        "long": "Pieto the fox dreams about seeing an eclipse, and today he has the opportunity. Help Pieto traverse dangerous terrain and avoid the natural disasters thrown at him!"
+    },
+    "platform": "Windows & Xbox",
+    "img":{
+        "card": "/dat/img/screenshots/WildEclipse3.png",
+        "screenshots":[
+            "WildEclipse1.png",
+            "WildEclipse2.png",
+            "WildEclipse3.png",
+            "WildEclipse4.png"
+        ]
+    },
+    "link":{
+        "youtube": "https://www.youtube.com/watch?v=JkhpVte51PI",
+        "store": "https://apps.microsoft.com/detail/9NLWH01L4KQM"
+    },
+    "modalID": "a1s-rad-5fd-6hg"
+}
