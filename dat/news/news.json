@@ -1,8 +1,10 @@
 {
     "format": "list",
     "files":[
+        "islandupdates1",
         "wintersale",
         "islandgame",
         "asphaltdriftingrelease"
+
     ]
 }

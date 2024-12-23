@@ -1,0 +1,19 @@
+{
+    "format": "card_news",
+    "title": "Island Game Updates",
+    "description":{
+        "short": "added console support & more!",
+        "long": "changelog: added console support, added inventory & items, added destructible objects, integrated building system into inventory system"
+    },
+    "date": "Dec 12, 2024",
+    "img":{
+        "card": "/dat/img/Islandupdates.png"
+    },
+    "modalID": "hdi6-ksut-pa3d-5al0s",
+    "links":[
+        {
+            "href": "https://www.youtube.com/watch?v=-otxfId0oSE",
+            "text": "Video Trailer"
+        }
+    ]
+}
