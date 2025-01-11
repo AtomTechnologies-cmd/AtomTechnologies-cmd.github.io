@@ -1,0 +1,19 @@
+{
+    "format": "card_news",
+    "title": "Discord Server Launch",
+    "description":{
+        "short": "A New Discord Server has been opened",
+        "long": "Join the community! give suggestions, report bugs, showcase gameplay and more!"
+    },
+    "date": "Dec 12, 2024",
+    "img":{
+        "card": "/dat/img/Discord.png"
+    },
+    "modalID": "1di6-ksut-p34d-5j7g",
+    "links":[
+        {
+            "href": "https://discord.gg/QEmYqrjjuC",
+            "text": "Server Link"
+        }
+    ]
+}
