@@ -1,0 +1,19 @@
+{
+    "format": "card_news",
+    "title": "Island Game Updates",
+    "description":{
+        "short": "Check out what's new!",
+        "long": "Island Game Updates! See what we got for our newest project! <br>changelog: <br> - added procedural paths<br> - changed player to rigidbody<br> - gave player the ability to slide, sprint and sneak<br> - swapped terrain generation to compute shader<br> - swapped biome map generation to compute shader<br> - added paths to terrain shader"
+    },
+    "date": "Feb 22, 2025",
+    "img":{
+        "card": "/dat/img/Paths.png"
+    },
+    "modalID": "34i6-k0out-p34d-5j0lg",
+    "links":[
+        {
+            "href": "https://youtu.be/BvLswIl54RI ",
+            "text": "Video"
+        }
+    ]
+}

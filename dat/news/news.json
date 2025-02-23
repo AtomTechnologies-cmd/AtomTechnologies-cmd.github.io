@@ -1,6 +1,7 @@
 {
     "format": "list",
     "files":[
+        "procpaths",
         "discordlaunch",
         "islandupdates1",
         "wintersale",
